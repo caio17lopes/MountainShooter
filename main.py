@@ -1,4 +1,4 @@
-from code.game import Game 
+from Model.game import Game 
 
 
 game = Game()
