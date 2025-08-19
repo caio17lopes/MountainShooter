@@ -1,5 +1,4 @@
-from Model.game import Game 
-
+from Model.Game import Game 
 
 game = Game()
 game.run()
