@@ -6,4 +6,4 @@ Site para baixar a fase = craftpix.net
 
 Site para judar a gaurdar dados sensiveis para não subior no github = gitignore.io
 
-Parei no minuto da aula 45:59
+Continuação na aula pratica 3 
